@@ -1,0 +1,3 @@
+# arquivos locais do Claude Code
+.claude/settings.local.json
+*.log
